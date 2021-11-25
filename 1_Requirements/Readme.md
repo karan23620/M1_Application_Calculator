@@ -8,7 +8,10 @@
 
 ## Introduction
 
-   - This is simple calculator which based on c language which calculate digits.
+  This is very simple calculator. I’m going to create this simple calculator using c programming. So this calculator performs few operation such as addition, subtraction, multiplication, division, modulus, power and factorial. So I create this calculator program in two ways 
+  - Using switch case
+  - Using Function
+This is simple calculator which based on c language which calculate digits.
 
 ### Features
   - Addition
