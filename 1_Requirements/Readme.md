@@ -3,7 +3,7 @@
 
 ## Introduction
 
-   **This is simple calculator which calculator digits
+   - This is simple calculator which calculator digits
 
 ### Research
 
