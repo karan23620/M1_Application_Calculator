@@ -54,6 +54,9 @@ Step 7: Exit from the program.
 
 ## 4W's 1-H
 ### Why
+  - It reduce the complexity of solving mathematical problem.
+  - I’m making this application for human to reduce their mistake in mathematical calculation.
+  - It can be used by anyon
 ### Where
 ### Who
 ### When
