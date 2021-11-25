@@ -1,5 +1,8 @@
 
 # Requirements
+  Our Calculator required few keys which are given below
+   - digits - 0-9
+   - some operators like "+, -, *, /, ^, 1ss"
 
 ## Introduction
 
