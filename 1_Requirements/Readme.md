@@ -1,10 +1,10 @@
 
 # Requirements
-  Our Calculator required few keys to perform action which are given below
-   - digits - 0-9
-   - some operators like "+, -, *, /, ^, !"
+  Our Calculator required few keys to perform action according to user choicewhich are given below-
+   - digits - 0-9.
+   - some operators for performing operation like "+, -, *, /, ^, !".
    - Press 'Q' or 'q' to quit the program
-   - Press 'H' or 'h' for asking to clear screen then press 'C' or 'c' 
+   - Press 'H' or 'h' for asking to clear screen then press 'C' or 'c' .
 
 ## Introduction
 
