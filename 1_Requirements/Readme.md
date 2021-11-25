@@ -22,6 +22,12 @@
   - Factorial
   
   on the basis of above option user can choose their requirements and get awesome result in few seconds.
+  
+ ## State of art/Research
+ An electronic calculator is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.
+The first solid-state electronic calculator was created in the early 1960s. Pocket-sized devices became available in the 1970s, especially after the Intel 4004, the first microprocessor, was developed by Intel for the Japanese calculator company Busicom. 
+Images
+
 Images
 ![calculator1](https://user-images.githubusercontent.com/49648354/143386912-a13acaed-743f-4250-9f9d-650ae0688474.png)
 
