@@ -3,7 +3,7 @@
   Our Calculator required few keys to perform action according to user choice which are given below-
    - digits - 0-9.
    - some operators for performing operation like "+, -, *, /, ^, !".
-   - Press 'Q' or 'q' to quit the program
+   - Press 'Q' or 'q' to quit the program.
    - Press 'H' or 'h' for asking to clear screen then press 'C' or 'c' .
 
 ## Introduction
