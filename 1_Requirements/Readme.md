@@ -64,4 +64,6 @@ Step 7: Exit from the program.
   - It can be used by anyone.
   - Basically it is frequently used by student, teacher, shopkeeper etc.
 ### When
+  - It can be used any time and any where.
+  - It can used for most mathematical calculations.
 ### How
