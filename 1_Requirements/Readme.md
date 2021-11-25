@@ -74,11 +74,13 @@ Step 7: Exit from the program.
 ### Strengths
   - It is user friendly.
   - Easy to use.
+  - Save time while doing mathematical problem.
   - Calculate complex arithmetic operational problems in few second.
 ### Weakness
   - Unable to perfom matrix operation. 
   - Unable to perform boolean operation.
   - Unable to perform binary operation.
+  - Unable to perform trignometric function operation.
 ### Opportunities
 ### Threats
 
