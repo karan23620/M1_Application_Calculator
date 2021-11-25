@@ -13,7 +13,7 @@
   - Modulus
   - Power
   - Factorial
-   - In our daily life we use cacluator...
+  on the basis of avobe option user can choose their requirements and get awesome result in few seconds.
 
 #### Folder Structure :
 | Folder_Name 	 | Description
