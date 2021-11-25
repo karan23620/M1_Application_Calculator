@@ -6,13 +6,13 @@
    - This is simple calculator which based on c language which calculate digits.
 
 ### Features
-   -Addition
-   -Subtraction
-   -Multiplication
-    Division
-    Modulus
-    Power
-    Factorial
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+  - Modulus
+  - Power
+  - Factorial
    - In our daily life we use cacluator...
 
 #### Folder Structure :
