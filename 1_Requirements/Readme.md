@@ -11,7 +11,7 @@
     In this bus ticket booking project we develop the system that can help the user to book their ticket online.
     In this project we take care of every service related to travelling and online ticket booking. When you start your traveling tour you have to book ticket so we help you from the starting point to the end point.
 
-### Folder Structure :
+#### Folder Structure :
 | Folder_Name 	 | Description
 |----------------|---------------------------------------------- |
 | 1.Reuriments 	 | Documents detailing requirements and research |
