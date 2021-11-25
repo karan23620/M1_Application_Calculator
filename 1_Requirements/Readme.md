@@ -1,10 +1,10 @@
 
 #Requirements
-#Introduction
+##Introduction
 
    . This Software project is aimed at automation of Online Ticket Booking. Objective of the project is to develop customize software package for Ticket Reservation.
 
-#Research
+##Research
 
    . In our daily life we have to book ticket for Bus. When we do this task manually then it becomes very hard to manage the ticket booking. So we are developing this system to manage booking of ticket automatically.
     In this bus ticket booking project we develop the system that can help the user to book their ticket online.
