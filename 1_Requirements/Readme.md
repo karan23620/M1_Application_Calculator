@@ -1,6 +1,6 @@
 
 # Requirements
-  Our Calculator required few keys to perform action according to user choicewhich are given below-
+  Our Calculator required few keys to perform action according to user choice which are given below-
    - digits - 0-9.
    - some operators for performing operation like "+, -, *, /, ^, !".
    - Press 'Q' or 'q' to quit the program
