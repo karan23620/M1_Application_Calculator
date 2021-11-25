@@ -3,10 +3,16 @@
 
 ## Introduction
 
-   - This is simple calculator which calculate digits
+   - This is simple calculator which based on c language which calculate digits.
 
-### Research
-
+### Features
+   -Addition
+   -Subtraction
+   -Multiplication
+    Division
+    Modulus
+    Power
+    Factorial
    - In our daily life we use cacluator...
 
 #### Folder Structure :
