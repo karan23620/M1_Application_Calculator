@@ -58,6 +58,8 @@ Step 7: Exit from the program.
   - I’m making this calculator for human to reduce their mistake in mathematical calculation.
   - It can be used by anyone.
 ### Where
+  - IT can be used in our daily life mathematical problems any where.
+  - It is mostly used by humans in study, in shop, in exam etc.
 ### Who
 ### When
 ### How
