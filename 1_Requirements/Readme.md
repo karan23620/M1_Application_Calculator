@@ -80,7 +80,7 @@ Step 7: Exit from the program.
   - Unable to perfom matrix operation. 
   - Unable to perform boolean operation.
   - Unable to perform binary operation.
-  - Unable to perform trignometric function operation.
+  - Unable to perform trigonometric functions operation.
 ### Opportunities
 ### Threats
 
