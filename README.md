@@ -1,5 +1,5 @@
 # M1_Application_Calculator
-This is simple calculator
+This is simple calculator which based on c language which calculate digits.
 
 ## Folder Structure :
 | Folder_Name 	 | Description
