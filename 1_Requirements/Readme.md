@@ -14,7 +14,7 @@
   - Power
   - Factorial
   
-  >on the basis of avobe option user can choose their requirements and get awesome result in few seconds.
+  on the basis of avobe option user can choose their requirements and get awesome result in few seconds.
 
 #### Folder Structure :
 | Folder_Name 	 | Description
