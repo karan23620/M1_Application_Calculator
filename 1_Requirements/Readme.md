@@ -3,7 +3,7 @@
 
 ## Introduction
 
-   **This** Software project is aimed at automation of Online Ticket Booking. Objective of the project is to develop customize software package for Ticket Reservation.
+   **This Software project is aimed at automation of Online Ticket Booking. Objective of the project is to develop customize software package for Ticket Reservation.
 
 ### Research
 
