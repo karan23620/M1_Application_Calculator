@@ -61,5 +61,7 @@ Step 7: Exit from the program.
   - IT can be used in our daily life mathematical problems any where.
   - It is mostly used by humans in study, in shop, in exam etc.
 ### Who
+  - It can be used by anyone.
+  - Basically it is frequently used by student, teacher, shopkeeper etc.
 ### When
 ### How
