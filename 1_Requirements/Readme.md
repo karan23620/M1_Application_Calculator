@@ -69,3 +69,12 @@ Step 7: Exit from the program.
 ### How
   - It can used by few steps. 
   - First choose the operation you want to do and then type numbers and then hit enter you will get the desirable output.Thats it, so simple
+
+## WOT Analysis
+### Strengths
+### Weakness
+### Opportunities
+### Threats
+
+## High Level Requriments
+## Low Level Requriments
