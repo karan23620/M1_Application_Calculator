@@ -52,4 +52,5 @@ Step 6: Display the operation result
 Step 7: Exit from the program.
 
 Image
+![Casio-fx](https://user-images.githubusercontent.com/49648354/143390047-ba51da98-b27a-47ff-9a86-e811708daffa.jpg)
 
