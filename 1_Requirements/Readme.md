@@ -13,7 +13,7 @@
   - Using Function
 This is simple calculator which based on c language which calculate digits.
 
-### Features
+## Features
   - Addition
   - Subtraction
   - Multiplication
