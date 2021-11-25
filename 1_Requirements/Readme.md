@@ -37,6 +37,7 @@ Images
 ![Casio-fx](https://user-images.githubusercontent.com/49648354/143390047-ba51da98-b27a-47ff-9a86-e811708daffa.jpg)
 
 But my calculator is very simple and perform very few tasks and its also not look like electronic or modern electronic calculators. So below you can see some steps to perfom any mathematical tasks-
+
 Step 1: Print the Choice (Addition, Subtraction, multiplication, division, etc.
 
 Step 2: Enter the Choice.
