@@ -67,3 +67,5 @@ Step 7: Exit from the program.
   - It can be used any time and any where.
   - It can used for most mathematical calculations.
 ### How
+  - It can used by few steps. 
+  - First choose the operation you want to do and then type numbers and then hit enter you will get the desirable output.Thats it, so simple
