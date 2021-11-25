@@ -70,7 +70,7 @@ Step 7: Exit from the program.
   - It can used by few steps. 
   - First choose the operation you want to do and then type numbers and then hit enter you will get the desirable output.Thats it, so simple
 
-## WOT Analysis
+## SWOT Analysis
 ### Strengths
 ### Weakness
 ### Opportunities
