@@ -32,8 +32,8 @@ Images
 ![Casio_calculator](https://user-images.githubusercontent.com/49648354/143389132-f23ed0f7-4e5f-4c13-900a-e5b4eeb66791.jpg)
 
 Modern electronic calculators vary from cheap, give-away, credit-card-sized models to sturdy desktop models with built-in printers. They became popular in the mid-1970s as the incorporation of integrated circuits reduced their size and cost. By the end of that decade, prices had dropped to the point where a basic calculator was affordable to most and they became common in schools
-Images
 
+Images
 ![Casio-fx](https://user-images.githubusercontent.com/49648354/143390047-ba51da98-b27a-47ff-9a86-e811708daffa.jpg)
 
 But my calculator is very simple and perform very few tasks and its also not look like electronic or modern electronic calculators. So below you can see some steps to perfom any mathematical tasks-
@@ -53,5 +53,4 @@ Step 6: Display the operation result
 Step 7: Exit from the program.
 
 Image
-
 ![calculator1](https://user-images.githubusercontent.com/49648354/143386912-a13acaed-743f-4250-9f9d-650ae0688474.png)
