@@ -74,7 +74,7 @@ Step 7: Exit from the program.
 ### Strengths
   - It is user friendly.
   - Easy to use.
-  - Calculate coplex arithmetic operational problems in few second.
+  - Calculate complex arithmetic operational problems in few second.
 ### Weakness
   - Unable to perfom matrix operation. 
   - Unable to perform boolean operation.
