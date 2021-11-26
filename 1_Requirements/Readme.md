@@ -91,10 +91,13 @@ Step 7: Exit from the program.
 ## High Level Requriments
  | ID 	 |           Description                        |	   Status    |
  |-------|----------------------------------------------|--------------|
- | HLR_1 |	The user can select the operation 	        |  Implemented |
- | HLR_2 |	The user give input for the operation 	    |  Implemented |
- | HLR_3 |	Input given by user must be a numeric value |  Implemented |
- | HLR_4 |	The user can view the output 	              |  Implemented |
+ | HLR_1 |	User can press 'Q' or 'q' to quit the program	            |  Implemented |
+ | HLR_2 |	User can press 'H' or 'h' for display screen clear option	|  Implemented |
+ | HLR_3 |	User can press 'C' or 'c' to clear the screen             |  Implemented |
+ | HLR_4 |	User can choose operator sign 	                          |  Implemented |
+ | HLR_5 |	User can give intput	                                    |  Implemented |
+ | HLR_6 |	User will get output	                                    |  Implemented |
+ | HLR_7 |	User will end up the program	                            |  Implemented |
 
 ## Low Level Requriments
   
