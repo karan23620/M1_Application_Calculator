@@ -90,6 +90,7 @@ Step 7: Exit from the program.
 
 ## High Level Requriments
  | ID 	 |           Description                        |	   Status    |
+ |-------|----------------------------------------------|--------------|
  | HLR_1 |	The user can select the operation 	        |  Implemented |
  | HLR_2 |	The user give input for the operation 	    |  Implemented |
  | HLR_3 |	Input given by user must be a numeric value |  Implemented |
