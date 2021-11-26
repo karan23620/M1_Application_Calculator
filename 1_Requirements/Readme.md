@@ -84,7 +84,9 @@ Step 7: Exit from the program.
   - Unable to perform binary operation.
   - Unable to perform trigonometric functions operation.
 ### Opportunities
+  - It is a best programing practice to learn new things.
 ### Threats
+  - There are show many advance calculator are already present in the market.
 
 ## High Level Requriments
 ## Low Level Requriments
