@@ -5,4 +5,5 @@
 ## 1. Basic Operational Test Case
    - Check the calculator is working properly or not.
    - Check all the operational menu showing or not, so that it could help the user to choose their desire arithmetic operator.
-   - 
+   - Check if the arithmetic operator (+, -, *, /, %,) are working or not.
+   -
