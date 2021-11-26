@@ -105,8 +105,8 @@ Step 7: Exit from the program.
  | HLR_1 |	Select appropriate option among operators sign            |   +    |       |  successful  |
  | HLR_2 |	Give inputs like n1, n2                                   | 20+30  |  50   |  successful  |     
  | HLR_3 |	Your output                                               |        |  50   |  successful  |
- | HLR_4 |	Claer the Screen if need type c 	                        |  c     |       | Implemented  |
- | HLR_5 |	Exit the program	                                        |        |       | Implemented  |
+ | HLR_4 |	Claer the Screen if need type c 	                        |  c     |       |  Implemented |
+ | HLR_5 |	Exit the program	                                        |        |       |  Implemented |
 
   
 
