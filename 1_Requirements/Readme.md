@@ -102,7 +102,7 @@ Step 7: Exit from the program.
 ## Low Level Requriments
  | ID 	 |           Description                                      |   I/P  |  O/P  |	   Status   |
  |-------|------------------------------------------------------------|--------|-------|--------------|
- | HLR_1 |	Select appropriate option among operator sign             |        |       |  Implemented |
+ | HLR_1 |	Select appropriate option operator +, -, *, /, ^, !     |        |       |  Implemented |
  | HLR_2 |	give inputS
  | HLR_3 |	User can press 'C' or 'c' to clear the screen             |        |       |  Implemented |
  | HLR_4 |	User can choose operator sign 	                          |        |       |  Implemented |
