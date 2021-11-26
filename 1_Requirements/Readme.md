@@ -100,15 +100,15 @@ Step 7: Exit from the program.
  | HLR_7 |	User will end up the program	                            |  Implemented |
 
 ## Low Level Requriments
- | ID 	 |           Description                                      |	   Status    |
- |-------|------------------------------------------------------------|--------------|
- | HLR_1 |	Select appropeate            |  Implemented |
- | HLR_2 |	User can press 'H' or 'h' for display screen clear option	|  Implemented |
- | HLR_3 |	User can press 'C' or 'c' to clear the screen             |  Implemented |
- | HLR_4 |	User can choose operator sign 	                          |  Implemented |
- | HLR_5 |	User can give intput	                                    |  Implemented |
- | HLR_6 |	User will get output	                                    |  Implemented |
- | HLR_7 |	User will end up the program	                            |  Implemented |
+ | ID 	 |           Description                                      |   I/P  |  O/P  |	   Status   |
+ |-------|------------------------------------------------------------|--------|-------|--------------|
+ | HLR_1 |	Select appropriate option among operator sign             |        |       |  Implemented |
+ | HLR_2 |	give inputS
+ | HLR_3 |	User can press 'C' or 'c' to clear the screen             |        |       |  Implemented |
+ | HLR_4 |	User can choose operator sign 	                          |        |       |  Implemented |
+ | HLR_5 |	User can give intput	                                    |        |       | Implemented  |
+ | HLR_6 |	User will get output	                                    |        |       |  Implemented |
+ | HLR_7 |	User will end up the program	                            |        |       |  Implemented |
 
   
 
