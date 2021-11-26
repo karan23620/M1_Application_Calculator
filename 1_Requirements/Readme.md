@@ -89,8 +89,8 @@ Step 7: Exit from the program.
   - There are show many advance calculator are already present in the market.
 
 ## High Level Requriments
- | ID 	 |           Description                        |	   Status    |
- |-------|----------------------------------------------|--------------|
+ | ID 	 |           Description                                      |	   Status    |
+ |-------|------------------------------------------------------------|--------------|
  | HLR_1 |	User can press 'Q' or 'q' to quit the program	            |  Implemented |
  | HLR_2 |	User can press 'H' or 'h' for display screen clear option	|  Implemented |
  | HLR_3 |	User can press 'C' or 'c' to clear the screen             |  Implemented |
