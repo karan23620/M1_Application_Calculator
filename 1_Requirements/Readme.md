@@ -89,4 +89,12 @@ Step 7: Exit from the program.
   - There are show many advance calculator are already present in the market.
 
 ## High Level Requriments
+ | ID 	 |           Description                        |	   Status    |
+ | HLR_1 |	The user can select the operation 	        |  Implemented |
+ | HLR_2 |	The user give input for the operation 	    |  Implemented |
+ | HLR_3 |	Input given by user must be a numeric value |  Implemented |
+ | HLR_4 |	The user can view the output 	              |  Implemented |
+
 ## Low Level Requriments
+  
+
