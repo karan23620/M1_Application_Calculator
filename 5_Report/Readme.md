@@ -1,7 +1,7 @@
 #                           !!! <<< Final Report on Calculator Project >>> !!!
 
 
-# Requirements
+# 1. Requirements
   This Calculator required few keys to perform action according to user choice which are given below-
    - digits - 0-9.
    - some operators for performing operation like "+, -, *, /, ^, !".
@@ -109,6 +109,12 @@ Step 7: Exit from the program.
  | LLR_3 |	Your output                                               |        |  50   |  successful  |
  | LLR_4 |	Claer the Screen if need type c 	                        |  c     |       |  Implemented |
  | LLR_5 |	Exit the program	                                        |        |       |  Implemented |
+ 
+ # 2. Design
+ >                                              !!! This is the Structural Diagram of Simple Calculator !!!
+
+![Structural Diagram](https://user-images.githubusercontent.com/49648354/143519250-9680fcb9-3293-46cf-be1f-766cb47a37b8.png)
+
 
   
 
