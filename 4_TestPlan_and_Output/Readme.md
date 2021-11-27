@@ -39,5 +39,6 @@
    | FTC_15 | Check the division of zero by any number working or not                          |  Yes   |
    
    # Output
+   - Below is the first interface of the calculator. User can choose the preference according their choice.
   
 
