@@ -1,8 +1,8 @@
 # Test Plan
   In this module we are going to discuss about two tests plan which are given below-
- A. Basic Operational Test Case
- B. Functionality Test Case
-## 1. Basic Operational Test Cases
+ - Basic Operational Test Case
+ - Functionality Test Case
+## Basic Operational Test Cases
    |   ID   |                         Description 	                                | Status |
    |--------|-----------------------------------------------------------------------|--------|
    | BOTC_1 | Check the calculator is working properly or not.                      |  Yes   |
@@ -19,7 +19,7 @@
    | BOTC_12| Check if clear key is working or not                                  |  Yes   |
    | BOTC_13| Check if exit option is working or not                                |  Yes   |
 
-## 2. Functionality Test Cases
+## Functionality Test Cases
    |   ID   |                         Description 	                                | Status |
    |--------|-----------------------------------------------------------------------|--------|
    | FTC_1  | Check the calculator is working properly or not.                      |  Yes   |
