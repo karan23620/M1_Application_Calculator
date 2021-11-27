@@ -114,6 +114,7 @@ Step 7: Exit from the program.
    - Structural Diagram
    - Behavioral Diagram
 
+## Structural Diagram
 
  >                                              !!! This is the Structural Diagram of Simple Calculator !!!
 
