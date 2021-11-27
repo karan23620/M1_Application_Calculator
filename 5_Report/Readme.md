@@ -126,7 +126,7 @@ Step 7: Exit from the program.
                                              
 ![Behavioral Diagram](https://user-images.githubusercontent.com/49648354/143519704-017cc9ce-aeb5-4b09-bd2a-70e7bbf464aa.png)
 
-# Test Plan
+# 4. Test Plan
   In this module we are going to discuss about two tests plan which are given below-
  - Basic Operational Test Case
  - Functionality Test Case
@@ -166,7 +166,7 @@ Step 7: Exit from the program.
    | FTC_14 | Check the division of a number by negative number working or not                 |  Yes   |
    | FTC_15 | Check the division of zero by any number working or not                          |  Yes   |
    
-   # Output
+   # 5. Output
    - Below screen is the first interface of the calculator. User can choose the preference according their choice.
    
      ![Output1](https://user-images.githubusercontent.com/49648354/143667772-c9fbb391-8454-4a97-a477-3806ac60d5c9.png)
