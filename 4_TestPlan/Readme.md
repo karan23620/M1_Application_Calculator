@@ -2,7 +2,7 @@
   In this module we are going to discuss about two tests plan which are given below-
  1. Basic Operational Test Case
  2. Functionality Test Case
-## 1. Basic Operational Test Case
+## 1. Basic Operational Test Cases
    |   ID   |                         Description 	                                | Status |
    |--------|-----------------------------------------------------------------------|--------|
    | BOTC_1 | Check the calculator is working properly or not.                      |  Yes   |
@@ -15,4 +15,15 @@
    | BOTC_8 | Check if clear key is working or not                                  |  Yes   |
    | BOTC_9 | Check if exit option is working or not                                |  Yes   |
 
-## 2. Functionality Test Case
+## 2. Functionality Test Cases
+   |   ID   |                         Description 	                                | Status |
+   |--------|-----------------------------------------------------------------------|--------|
+   | FTC_1  | Check the calculator is working properly or not.                      |  Yes   |
+   | FTC_2  | Check all the operators sign menu showing or not                      |  Yes   |
+   | FTC_3  | Check if the arithmetic operator (+, -, *, /, %,) are working or not. |  Yes   |
+   | FTC_4  | Check if the square key is working or not.                            |  Yes   |
+   | FTC_5  | Check if all the numbers (0 to 9) are working or not                  |  Yes   |
+   | FTC_6  | Check if the backets keys are working or not                          |  Yes   |
+   | FTC_7  | Check if sum and equal key is working or not                          |  Yes   |
+   | FTC_8  | Check if clear key is working or not                                  |  Yes   |
+   | FTC_9  | Check if exit option is working or not                                |  Yes   |
