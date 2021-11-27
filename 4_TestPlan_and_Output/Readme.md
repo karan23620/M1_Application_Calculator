@@ -43,7 +43,8 @@
    
      ![Output1](https://user-images.githubusercontent.com/49648354/143667772-c9fbb391-8454-4a97-a477-3806ac60d5c9.png)
      
-   - Below screen is the output according user preference
-     
+   - Below screen is the output according user preference.
+   
+     ![Output2](https://user-images.githubusercontent.com/49648354/143667920-ec79bcf4-039e-4628-acf5-2bf47597d928.png)
   
 
