@@ -3,7 +3,7 @@
  1. Basic Operational Test Case
  2. Functionality Test Case
 ## 1. Basic Operational Test Case
-   | ID 	  |                         Description 	                                | Status |
+   |   ID   |                         Description 	                                | Status |
    |--------|-----------------------------------------------------------------------|--------|
    | BOTC_1 | Check the calculator is working properly or not.                      |  Yes   |
    | BOTC_2 | Check all the operators sign menu showing or not                      |  Yes   |
@@ -14,3 +14,5 @@
    | BOTC_7 | Check if sum and equal key is working or not                          |  Yes   |
    | BOTC_8 | Check if clear key is working or not                                  |  Yes   |
    | BOTC_9 | Check if exit option is working or not                                |  Yes   |
+
+## 2. Functionality Test Case
