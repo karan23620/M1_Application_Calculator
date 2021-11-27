@@ -40,5 +40,7 @@
    
    # Output
    - Below is the first interface of the calculator. User can choose the preference according their choice.
+   
+     ![Output1](https://user-images.githubusercontent.com/49648354/143667772-c9fbb391-8454-4a97-a477-3806ac60d5c9.png)
   
 
