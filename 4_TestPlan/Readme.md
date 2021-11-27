@@ -1,7 +1,7 @@
 # Test Plan
   In this module we are going to discuss about two tests plan which are given below-
- (A). Basic Operational Test Case
- (B). Functionality Test Case
+ A. Basic Operational Test Case
+ B. Functionality Test Case
 ## 1. Basic Operational Test Cases
    |   ID   |                         Description 	                                | Status |
    |--------|-----------------------------------------------------------------------|--------|
