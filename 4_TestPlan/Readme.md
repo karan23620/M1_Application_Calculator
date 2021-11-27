@@ -26,15 +26,15 @@
    | FTC_2  | Check the addition of two negative numbers working or not                        |  Yes   |
    | FTC_3  | Check the addition of one positive and one negative number working or not        |  Yes   |
    | FTC_4  | Check the subtraction of two integer numbers working or not                      |  Yes   |
-   | FTC_1  | Check the subtraction of two negative numbers working or not                     |  Yes   |
-   | FTC_1  | Check the subtraction of one negative and one positive number working or not     |  Yes   |
-   | FTC_1  | Check the multiplication of two integer numbers working or not                   |  Yes   |
-   | FTC_1  | Check the multiplication of two negative numbers working or not                  |  Yes   |
-   | FTC_1  | Check the multiplication of one negative and one positive number working or not  |  Yes   |
-   | FTC_1  | Check the division of two integer numbers working or not                         |  Yes   |
-   | FTC_1  | Check the division of two negative numbers working or not                        |  Yes   |
-   | FTC_1  | Check the division of one positive number and one integer number working or not  |  Yes   |
-   | FTC_1  | Check the division of a number by zero working or not                            |  Yes   |
-   | FTC_1  | Check the division of a number by negative number working or not                 |  Yes   |
-   | FTC_1  | Check the division of zero by any number working or not                          |  Yes   |
+   | FTC_5  | Check the subtraction of two negative numbers working or not                     |  Yes   |
+   | FTC_6  | Check the subtraction of one negative and one positive number working or not     |  Yes   |
+   | FTC_7  | Check the multiplication of two integer numbers working or not                   |  Yes   |
+   | FTC_8  | Check the multiplication of two negative numbers working or not                  |  Yes   |
+   | FTC_9  | Check the multiplication of one negative and one positive number working or not  |  Yes   |
+   | FTC_10 | Check the division of two integer numbers working or not                         |  Yes   |
+   | FTC_11 | Check the division of two negative numbers working or not                        |  Yes   |
+   | FTC_12 | Check the division of one positive number and one integer number working or not  |  Yes   |
+   | FTC_13 | Check the division of a number by zero working or not                            |  Yes   |
+   | FTC_14 | Check the division of a number by negative number working or not                 |  Yes   |
+   | FTC_15 | Check the division of zero by any number working or not                          |  Yes   |
   
