@@ -37,5 +37,7 @@
    | FTC_13 | Check the division of a number by zero working or not                            |  Yes   |
    | FTC_14 | Check the division of a number by negative number working or not                 |  Yes   |
    | FTC_15 | Check the division of zero by any number working or not                          |  Yes   |
+   
+   # Out Put
   
 
