@@ -7,8 +7,8 @@
    |--------|-----------------------------------------------------------------------|--------|
    | BOTC_1 | Check the calculator is working properly or not.                      |  Yes   |
    | BOTC_2 | Check all the operators sign menu showing or not                      |  Yes   |
-   | BOTC_3 | Check if the arithmetic operator (+, -, *, /, %,!) are working or not.|  Yes   |
-   | BOTC_4 | Check if the sin, cos, tan and cos is operational working or not      |  No    |
+   | BOTC_3 | Check if the arithmetic operator (+, -, *, /, %, !) are working or not|  Yes   |
+   | BOTC_4 | Check if the sin, cos, tan and coT is operational working or not      |  No    |
    | BOTC_5 | Check if the log operation is working or not                          |  No    |
    | BOTC_6 | Check if the factorial key is working or not                          |  Yes   |
    | BOTC_7 | Check if the complex conjugate keys is working or not.                |  No    |
